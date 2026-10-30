@@ -1,4 +1,4 @@
-# Mobile App User Engagement & Retention Analysis
+# Mobile User Retention and A/B Test Analysis
 
 ## Overview
 This project analyzes mobile app user behavior across onboarding, activation, engagement, retention, subscription conversion, and revenue. It combines product analytics, cohort analysis, A/B testing, statistical inference, and machine learning.
